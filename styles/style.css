@@ -193,7 +193,11 @@ main > section{
     filter: grayscale(100%);
 }
 
-
+footer{
+    background-color: coral;
+    text-align: center;
+    border-radius: 10px;
+}
 
 /* responsive media query */
 @media screen  and (max-width:576px){
